@@ -5,4 +5,9 @@
 - 📫 How to reach me **abdelkdoussebelhaje@gmail.com**
 
 - **Language** : java , python , js
--  
+- **Framework** : Spring Boot , React.js , Tailwind css , Flutter
+- **Database** : Postgresql , Oracle
+- **Tools** : Git , Docker , Jenkins , Jira
+- **Cloud Plateform** : Azure , AWS
+
+Feel free to explore my repositories, and don't hesitate to reach out!
